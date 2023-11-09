@@ -23,9 +23,12 @@ class JunWooMain extends StatelessWidget {
             ),
             centerTitle: true,
           ),
-          body: const Center(
-            child: Text('Junwoo Portfolio'),
-          ),
+          body: Center(
+              child: Image.asset(
+            "image/junwoo.jpg",
+            width: 30,
+            height: 30,
+          )),
         ));
   }
 }
