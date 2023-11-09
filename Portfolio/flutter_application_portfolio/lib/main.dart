@@ -10,13 +10,22 @@ class JunWooMain extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // 디버그 표시를 없앤다.
-      debugShowCheckedModeBanner: false,
-      title: 'Junwoo Portfolio',
-      theme: ThemeData(
-        primarySwatch: Colors.purple,
-      ),
-      home: Text('Junwoo Portfolio'),
-    );
+        // 디버그 표시를 없앤다.
+        debugShowCheckedModeBanner: false,
+        title: 'Junwoo Portfolio',
+        theme: ThemeData(
+          primarySwatch: Colors.deepPurple,
+        ),
+        home: Scaffold(
+          appBar: AppBar(
+            title: const Text(
+              '황준우',
+            ),
+            centerTitle: true,
+          ),
+          body: const Center(
+            child: Text('Junwoo Portfolio'),
+          ),
+        ));
   }
 }
