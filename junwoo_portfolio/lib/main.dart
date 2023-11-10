@@ -26,8 +26,8 @@ class JunWooMain extends StatelessWidget {
           body: Center(
               child: Image.asset(
             "image/junwoo.jpg",
-            width: 30,
-            height: 30,
+            width: 500,
+            height: 500,
           )),
         ));
   }
