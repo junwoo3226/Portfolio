@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'View/junwooTitle.dart';
+import 'View/junwoo_title.dart';
 
 void main() {
   runApp(const JunWooMain());
 }
 
 class JunWooMain extends StatelessWidget {
-  const JunWooMain({Key? key}) : super(key: key);
+  const JunWooMain({super.key});
 
   @override
   Widget build(BuildContext context) {
