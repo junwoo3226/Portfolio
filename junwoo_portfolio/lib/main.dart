@@ -80,48 +80,48 @@ class JunwooMainPage extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      '1997년 07월 07일 출생',
+                      '1997년 07월 07일 울산 출생',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     Text(
-                      '2005년 3월 1일 입학',
+                      '2013년 03월 울산고등학교 입학',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     Text(
-                      '2011년 2월 10일 졸업',
+                      '2016년 2월 울산고등학교 졸업',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     Text(
-                      '2011년 3월 1일 입학',
+                      '2016년 3월 영남이공대학교 기계계열 입학',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     Text(
-                      '2017년 2월 10일 졸업',
+                      '2021년 2월 영남이공대학교 졸업',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     Text(
-                      '2017년 3월 1일 입대',
+                      '2016년 7월 26일 21사단 65연대 수송대 입대',
                       style: TextStyle(
                         fontSize: 15,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    Text('2019년 2월 10일 전역',
+                    Text('2018년 4월 25일 전역',
                         style: TextStyle(
                           fontSize: 15,
                           fontWeight: FontWeight.bold,
